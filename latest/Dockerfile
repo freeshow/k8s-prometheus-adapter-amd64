@@ -1,1 +1,1 @@
-FROM directxman12/k8s-prometheus-adapter
+FROM directxman12/k8s-prometheus-adapter-amd64
